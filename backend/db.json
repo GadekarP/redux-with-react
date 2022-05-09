@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "name": "xps",
+      "price": 100,
+      "id": 1
+    },
+    {
+      "name": "xps",
+      "price": 100,
+      "id": 2
+    },
+    {
+      "name": "xps",
+      "price": 100,
+      "id": 3
+    }
+  ]
+}
